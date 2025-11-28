@@ -71,6 +71,10 @@ bash
 cd stm32_emulator
 python stm32_emulator.py
 🔧 Подробная установка
+Терминал 5 - Renode
+
+cd stm32_firmware
+renode renode_working.resc
 📋 Требования
 Python 3.7+
 
